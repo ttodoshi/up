@@ -1,0 +1,3 @@
+C:\Users\Администратор\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Администратор\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache

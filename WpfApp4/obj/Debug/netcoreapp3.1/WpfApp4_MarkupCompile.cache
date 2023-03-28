@@ -1,19 +1,19 @@
 ﻿WpfApp4
-1.0.0.0
+
 
 winexe
 C#
 .cs
-C:\Users\Администратор\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\
+C:\Users\Администратор\source\repos\WpfApp4\WpfApp4\obj\Debug\netcoreapp3.1\
 WpfApp4
 none
 false
-TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Администратор\source\repos\WpfApp4\WpfApp4\App.xaml
 1-834700163
 
-6164560252
-193-1891726104
+41520447576
+192-1533232326
 Views\Windows\MainWindow.xaml;
 
 False
