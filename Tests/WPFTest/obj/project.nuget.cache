@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRsn4yx9e5wGTBvkbHsyNSBDAADR0CV4AaTbWdPAGOcdnWa4jOKSYdn7MD9Dq3AtypesTAxowqogBIdKc02u5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Администратор\\source\\repos\\WpfApp4\\Tests\\WPFTest\\WPFTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
