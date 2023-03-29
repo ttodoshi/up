@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "A4TfFC+iALbDmxwE1oTDx7j2LGc00BHQLZgIT/GYTaUuibKSrGC9PRbkowbylJlyb7PID6c0dCWvhM+k8Hpn8Q==",
+  "dgSpecHash": "DmkMTxThchJ06iAhn3R9S5pi0CQw/tTcE5nusrOat3L9vK7fUThtafZ1U7wFYBr4nzjPxKPR6223J/XZZL2irA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Администратор\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Администратор\\.nuget\\packages\\fontawesome.wpf\\4.7.0.9\\fontawesome.wpf.4.7.0.9.nupkg.sha512",
+    "C:\\Users\\Администратор\\.nuget\\packages\\fontawesome5\\2.1.11\\fontawesome5.2.1.11.nupkg.sha512",
     "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
   ],
   "logs": [
