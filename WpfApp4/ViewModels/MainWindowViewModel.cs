@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Input;
+using WpfApp4.Infrastructure.Commands;
 using WpfApp4.ViewModels.Base;
 
 namespace WpfApp4.ViewModels
@@ -27,5 +30,45 @@ namespace WpfApp4.ViewModels
             set => Set(ref _Title, value);
         }
         #endregion
+
+        #region Status : string - Статус программы
+
+        /// <summary>Статус программы</summary>
+        private string _Status = "Готов!";
+
+        /// <summary>Статус программы</summary>
+
+        public string Status 
+        {
+            get => _Status;
+            set => Set(ref _Status, value);
+        }
+
+        #endregion
+
+        #region Команды
+
+        #region CloseApplicationCommandExecute
+
+        public ICommand CloseAplicationCommand { get; }
+
+        private bool CanCloseApplicationCommandExecute(object p) => true;
+
+        private void OnCloseApplicationCommandExecute(object p)
+        {
+            Application.Current.Shutdown();
+        }
+        #endregion
+
+        #endregion
+
+        public MainWindowViewModel()
+        {
+            #region Команды
+
+            CloseAplicationCommand = new LambdaCommand(OnCloseApplicationCommandExecute, CanCloseApplicationCommandExecute);
+
+            #endregion
+        }
     }
 }

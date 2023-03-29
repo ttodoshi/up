@@ -1,10 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "FERrZK58RC7vkzPxf+uMgpzDlrGOIAJ0d+wpytYShU8JVrJGNZcohGqZt4dmGQhUCXD21Fex4WYfIsQT1WGdDA==",
+  "dgSpecHash": "A4TfFC+iALbDmxwE1oTDx7j2LGc00BHQLZgIT/GYTaUuibKSrGC9PRbkowbylJlyb7PID6c0dCWvhM+k8Hpn8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Администратор\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Администратор\\.nuget\\packages\\fontawesome.wpf\\4.7.0.9\\fontawesome.wpf.4.7.0.9.nupkg.sha512",
     "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"FontAwesome.WPF 4.7.0.9\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "FontAwesome.WPF",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

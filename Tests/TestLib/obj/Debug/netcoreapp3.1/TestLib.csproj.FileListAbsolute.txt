@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\bin\Debug\netcoreapp3.1\TestLib.deps.json
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\bin\Debug\netcoreapp3.1\TestLib.dll
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\bin\Debug\netcoreapp3.1\TestLib.pdb
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\obj\Debug\netcoreapp3.1\TestLib.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\obj\Debug\netcoreapp3.1\TestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\obj\Debug\netcoreapp3.1\TestLib.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\obj\Debug\netcoreapp3.1\TestLib.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\obj\Debug\netcoreapp3.1\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\obj\Debug\netcoreapp3.1\TestLib.dll
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLib\obj\Debug\netcoreapp3.1\TestLib.pdb

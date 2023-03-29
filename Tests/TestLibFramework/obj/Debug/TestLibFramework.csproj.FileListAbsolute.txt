@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLibFramework\bin\Debug\TestLibFramework.dll
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLibFramework\bin\Debug\TestLibFramework.pdb
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLibFramework\obj\Debug\TestLibFramework.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLibFramework\obj\Debug\TestLibFramework.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLibFramework\obj\Debug\TestLibFramework.dll
+C:\Users\Администратор\source\repos\WpfApp4\Tests\TestLibFramework\obj\Debug\TestLibFramework.pdb
