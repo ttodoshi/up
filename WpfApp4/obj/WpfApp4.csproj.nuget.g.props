@@ -19,7 +19,6 @@
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgOxyPlot_Wpf Condition=" '$(PkgOxyPlot_Wpf)' == '' ">C:\Users\Администратор\.nuget\packages\oxyplot.wpf\2.1.2</PkgOxyPlot_Wpf>
     <PkgFontAwesome_WPF Condition=" '$(PkgFontAwesome_WPF)' == '' ">C:\Users\Администратор\.nuget\packages\fontawesome.wpf\4.7.0.9</PkgFontAwesome_WPF>
   </PropertyGroup>
 </Project>

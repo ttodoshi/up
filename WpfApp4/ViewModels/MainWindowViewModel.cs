@@ -95,6 +95,8 @@ namespace WpfApp4.ViewModels
 
                 data_points.Add(new DataPoint(x, y));
             }
+
+            TestDataPoints = data_points;
         }
     }
 }
