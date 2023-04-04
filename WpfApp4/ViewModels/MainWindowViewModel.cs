@@ -14,6 +14,19 @@ namespace WpfApp4.ViewModels
 {
     internal class MainWindowViewModel : ViewModel
     {
+        #region SelecedPageIndex : int - Номер выбранной вкладки
+        /// <summary>DESCRIPTION</summary>
+        private int _SelecedPageIndex;
+
+        /// <summary>DESCRIPTION</summary>
+        public int SelecedPageIndex
+        {
+            get => _SelecedPageIndex;
+            set => Set(ref _SelecedPageIndex, value);
+        }
+
+        #endregion
+
         #region TestDataPoints : IEnumerable<DataPoint> - DESCRIPTION
 
         /// <summary>DESCRIPTION</summary>
